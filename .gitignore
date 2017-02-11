@@ -1,0 +1,7 @@
+venv360
+*.pyc
+.cache
+.coverage
+__pycache__
+db.sqlite3
+geckodriver.log
